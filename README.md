@@ -14,7 +14,7 @@ For use with a text editor or IDE
 
 ## Prerequisites
 
-+ bootstrap
++ Bootstrap
 + Internet Connection
 
 ## Usage
